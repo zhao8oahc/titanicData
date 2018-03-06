@@ -1,0 +1,2 @@
+# Titanic Data Analysis #
+This project invests the factors that may influence the survival rate of 891 passengers on Titanic, which based on the dataset from the [Kaggle Website](https://www.kaggle.com/c/titanic/data) by using Numpy and Pandas of Python. 
